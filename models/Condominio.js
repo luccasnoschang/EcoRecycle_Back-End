@@ -1,8 +1,6 @@
 import Sequelize from "sequelize";
 import Connection from "../database.js";
 
-
-
 const Condominio = Connection.define(
 
     'condominio',
